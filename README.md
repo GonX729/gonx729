@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Cyber security Toolss**
 
-- 👨‍💻 All of my projects are available at [https://v0-govind-portfolio-tn2rq3.vercel.app/](https://v0-govind-portfolio-tn2rq3.vercel.app/)
+- 👨‍💻 All of my projects are available at [#AMUZZx PORTFOLIO#/](https://v0-govind-portfolio-tn2rq3.vercel.app/)
 
 - 💬 Ask me about **WebD. CyberFrncs**
 
-- 📫 How to reach me **amuzz11315@gmasil.com**
+- 📫 How to reach me **amuzz11315@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
