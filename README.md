@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Govind Acharya</h1>
-<h3 align="center">A passionate Cyber Security developer from India</h3>
+<h1 align="center"> Hi 🫡, I'm Govind Acharya </h1>
+<h3 align="center">A passionate Cyber Security developer from Rajasthan,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonx729&label=Profile%20views&color=0e75b6&style=flat" alt="gonx729" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber security Toolss**
 
-- 👨‍💻 All of my projects are available at [#AMUZZx PORTFOLIO#/](https://v0-govind-portfolio-tn2rq3.vercel.app/)
+- 👨‍💻 All of my projects are available at [****AMUZZx PORTFOLIO****](https://v0-govind-portfolio-tn2rq3.vercel.app/)
 
 - 💬 Ask me about **WebD. CyberFrncs**
 
