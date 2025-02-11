@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://www.instagram.com/govind__ach__4x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
-    <a href="https://www.linkedin.com/in/govind-acharya/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=indeed&logoColor=red&color=black" alt="Linkedin Badge"/></a>
+    <a href="https://www.linkedin.com/in/govind-acharya-1ba231306/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=indeed&logoColor=red&color=black" alt="Linkedin Badge"/></a>
     <a href="https://devpost.com/muzzXalmighty"><img src="https://img.shields.io/badge/Devpost-4CA5E0?style=for-the-badge&logo=Devpost&logoColor=red&color=black" alt="Devpost Badge"/></a>
    <a href="https://unstop.com/u/worstgoh6242"><img src="https://img.shields.io/badge/Unstop-2CA5E0?style=for-the-badge&logo=udemy&logoColor=red&color=black" alt="Unstop Badge"/></a>
 </div>
