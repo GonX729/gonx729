@@ -13,7 +13,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **[firewall] Tsi-BlazeWall**
+- 🔭 I’m currently working on **firewall, Cyber security, Ethical Hacking**
 
 - 🌱 I’m currently learning **Cyber security Toolss**
 
