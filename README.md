@@ -2,7 +2,7 @@
     ☠️ GOVIND | ACHARYA | POWERFUL CODER | ☠️
 </h1>
 
-<h3 align="center">A passionate Cyber Security developer from Rajasthan,India</h3>
+<h3 align="center">A passionate Full Stack and Ai Developer from Rajasthan,India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonx729&label=Profile%20views&color=0e75b6&style=flat" alt="gonx729" /> </p>
 
 <div align="center">
