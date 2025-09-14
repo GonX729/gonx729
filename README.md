@@ -13,11 +13,11 @@
 </div>
 
 
-- 🔭 I’m currently working on **firewall, Cyber security, Ethical Hacking**
+- 🔭 I’m currently working on **DSA, Full Stack Development,  Ai Tools**
 
-- 🌱 I’m currently learning **Cyber security Toolss**
+- 🌱 I’m currently learning **Gen Ai**
 
-- 💬 Ask me about **WebDevelopment, Network Security, Ethics-Info.**
+- 💬 Ask me about **WebDev., Soft-Tech , Ethics-Info.**
 
 - 📫 How to reach me - ~amuzz11315 @gmail.com~
 
